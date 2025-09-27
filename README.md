@@ -1,31 +1,43 @@
 ![Mario](assets/mario.gif)
 
-### 👋 G'day Mate, I’m Kelsi (@Xinqwq)  
-![16meme](assets/16meme_GithubRepo_S.jpg)
+### 👋 G'day Mate, I’m Chris (@buptcuican)  
+<!-- ![16meme](assets/16meme_GithubRepo_S.jpg) -->
 
 
 
-- 👀 Interested in algorithms, data structures, and game strategy (especially fs games & board game Avalon).  
-- 🌱 Currently focusing on LeetCode to strengthen my problem-solving skills.  
-- 🎓 Graduate student preparing for job applications.  
-- 💡 Exploring forward-thinking and emotional resilience.  
-- 📫 Reach me via GitHub or other platforms.  
-- ⚡ Fun fact: I enjoy deep discussions on psychology and decision-making!
+- 💻 **Technical Expertise**  
+5+ years Java developer, 4 years in financial securities core system development. Skilled in Java web architecture, CI/CD, knowledge systems, and data workflows.  
+
+- 👥 **Team Leadership**  
+Led a 10-member team, translating complex business requirements into clean and maintainable code.  
+
+- ⚡ **Problem Solving**  
+Proven ability to deliver under high-pressure environments.  
+
+- 🤖 **Future Mindset**  
+Actively embracing AI’s transformation of software development.  
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,css,javascript,react,py,docker,linux,mysql,mongodb,nginx,redis,bitbucket,github,figma,unreal,blender&theme=dark)](https://github.com/Xinqwq)
-<!--[![My Skills](https://skillicons.dev/icons?i=java,nodejs,css,javascript,react,py,docker,linux,mysql,mongodb,nginx,redis,bitbucket,github,figma,unreal,blender&theme=light)](https://github.com/Xinqwq)-->
+![Language](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,cs,javascript,css,html,md,lua&theme=dark)
+
+![Framework](https://skillicons.dev/icons?i=spring,nodejs,react,vue,kafka,flutter&theme=dark)
+
+![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase&theme=dark)
+
+![CI/CD](https://skillicons.dev/icons?i=maven,gradle,jenkins,kubernetes,aws,azure,nginx,docker&theme=dark)
+
+![Tools](https://skillicons.dev/icons?i=idea,git,gitlab,unreal,unity,androidstudio,latex,postman&theme=dark)
 
 
 ## Contact
-📩 Reach me [here](https://xeinacc.cn)
+📩 Reach me [here](https://www.linkedin.com/in/chriscuimelbourne/)
 
 ## Stats 
 <!--Snake Contributions-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xinqwq/Xinqwq/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xinqwq/Xinqwq/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Xinqwq/Xinqwq/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buptcuican/buptcuican/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buptcuican/buptcuican/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/buptcuican/buptcuican/output/github-contribution-grid-snake.svg">
 </picture>
 <br>
 🐍Animation created with [Platane/snk](https://github.com/Platane/snk)
@@ -34,27 +46,17 @@
 
 ---
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Xinqwq&style=for-the-badge)
+![Profile View Counter](https://komarev.com/ghpvc/?username=buptcuican&style=for-the-badge)
 
 <p align="center">
   <a href="https://count.getloli.com" target="_blank">
-    <img alt="Kelsi" src="https://count.getloli.com/@Xinqwq.github?name=Xinqwq.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+    <img alt="chris" src="https://count.getloli.com/@buptcuican.github?name=buptcuican.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
   </a>
 </p>
 <p align="center">
   <a href="https://count.getloli.com" target="_blank">
-    <img alt="Kelsi" src="https://count.getloli.com/@Xinqwq.github?name=Xinqwq.github&theme=booru-mjg&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+    <img alt="chris" src="https://count.getloli.com/@buptcuican.github?name=buptcuican.github&theme=booru-mjg&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
   </a>
 </p>
 
-<!-- ## Star History
 
-<a href="https://www.star-history.com/#azl397985856/leetcode&Date">
-
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=azl397985856/leetcode&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=azl397985856/leetcode&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=azl397985856/leetcode&type=Date" />
- </picture>
-</a>
--->
