@@ -60,4 +60,4 @@ Actively embracing AI’s transformation of software development.
 </p>
 
 🙏 **Acknowledgements**  
-This page was inspired by [Kelsi](https://github.com/Xinqwq) and supported by contributions and technical insights from other authors.  
+This page was inspired by [@Xinqwq](https://github.com/Xinqwq) and supported by contributions and technical insights from other authors.  
