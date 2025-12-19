@@ -1,6 +1,6 @@
 ![Mario](assets/mario.gif)
 
-### 👋 G'day Mate, I’m Chris (@buptcuican)  
+### 👋 G'day Mate, I’m Chris  
 <!-- ![16meme](assets/16meme_GithubRepo_S.jpg) -->
 
 
